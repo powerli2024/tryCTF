@@ -1,0 +1,4 @@
+git add README.md
+git commit -m "Initial commit"
+git remote remove main
+git push -u origin master
